@@ -1,0 +1,11 @@
+ability 2 1 1
+move b down
+ability 3 B
+move B up
+move a down
+ability 2 1 1
+move B up
+move c down
+move B up
+move b down
+
